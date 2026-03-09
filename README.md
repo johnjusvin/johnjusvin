@@ -124,29 +124,6 @@ ERC-20 · NFTs · Web3
 OpenCV · PyTesseract · Postman · Arduino · PyPI
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## Achievements
-
-| Award | Event | Institution |
-|---|---|---|
-| Runner-Up | INNOVATE-X Hackathon | Karunya Institute of Technology and Sciences |
-| Best Project | DEV ARENA Hackathon | SRM Easwari Engineering College |
-| Published | `vision-rag` on PyPI | Open-Source |
-
----
-
-## Education
-
-**B.Tech — Artificial Intelligence and Data Science**
-Karunya Institute of Technology and Sciences
-
----
-
 <div align="center">
 
 *If you're working on something at the frontier of AI and backend systems — let's talk.*
