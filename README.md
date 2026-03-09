@@ -124,6 +124,13 @@ ERC-20 · NFTs · Web3
 OpenCV · PyTesseract · Postman · Arduino · PyPI
 ```
 
+</td>
+</tr>
+</table>
+
+---
+
+
 <div align="center">
 
 *If you're working on something at the frontier of AI and backend systems — let's talk.*
